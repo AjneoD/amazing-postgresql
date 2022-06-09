@@ -1,4 +1,0 @@
-.env
-.docker-data
-node_modules
-.vscode/*.log

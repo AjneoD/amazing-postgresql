@@ -1,1 +1,0 @@
-SELECT * FROM notify_live_stream();
